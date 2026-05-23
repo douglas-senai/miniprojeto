@@ -1,1 +1,3 @@
-# Mini projeto avaliativo - Senai
+# Mini Projeto Avaliativo - Senai
+
+Descrição:
