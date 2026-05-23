@@ -1,2 +1,1 @@
-# miniprojeto
-Mini  projeto avaliativo - Senai
+# Mini projeto avaliativo - Senai
