@@ -17,7 +17,7 @@ A equipe de Engenharia de Dados da Olist identificou inconsistências estruturai
 
 1. **Clone este repositório** para a sua máquina local utilizando o terminal ou prompt de comando:
    ```bash
-   git clone https://github.com
+   git clone [https://github.com](https://github.com/douglas-senai/miniprojeto.git)
    ```
 
 2. **Navegue até o diretório** do projeto:
