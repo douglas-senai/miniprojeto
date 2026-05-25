@@ -7,17 +7,31 @@ A equipe de Engenharia de Dados da Olist identificou inconsistências estruturai
 
 ---
 
-## 🚀 Guia de Execução
+## Guia de Execução
 
 ### Pré-requisitos
 * Ter o Python 3.x instalado em sua máquina.
-* Não é necessária a instalação de nenhuma biblioteca externa (como pandas ou numpy).
+* Nenhuma biblioteca externa é necessária:** O projeto foi desenvolvido utilizando apenas recursos nativos do Python.
 
 ### Passo a Passo
-1. Clone este repositório para a sua máquina local.
-2. 
----
 
+1. **Clone este repositório** para a sua máquina local utilizando o terminal ou prompt de comando:
+   ```bash
+   git clone https://github.com
+   ```
+
+2. **Navegue até o diretório** do projeto:
+   ```bash
+   cd NOME_DO_REPOSITORIO
+   ```
+3. **Certifique-se de que os arquivos de dados** (`olist_products_dataset.csv` e `olist_orders_dataset.csv`) estão localizados na mesma pasta do seu arquivo do notebook ou script Python.
+
+4. **Execute o arquivo:**
+   * Caso esteja utilizando o arquivo `.ipynb`, abra-o através do **Jupyter Notebook**, **VS Code** ou **Google Colab** e execute todas as células (`Run All`).
+   * Caso tenha convertido para script padrão Python (`.py`), execute diretamente pelo terminal:
+     ```bash
+     python main.py
+     ```
 ## Reflexão Teórica: Impacto da Limpeza de Dados em Machine Learning
 
 A aplicação de uma lógica de programação estruturada e rigorosa na fase de preparação dos dados é o pilar mais crítico para garantir a qualidade de futuros modelos de Inteligência Artificial. Quando alimentamos um algoritmo de Machine Learning com dados brutos contendo ruídos, valores inconsistentes ou categorias duplicadas por erros de digitação, o modelo tende a memorizar essas imperfeições em vez de aprender o padrão real.
