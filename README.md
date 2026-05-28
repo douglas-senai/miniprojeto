@@ -22,7 +22,7 @@ A equipe de Engenharia de Dados da Olist identificou inconsistências estruturai
 
 2. **Navegue até o diretório** do projeto:
    ```bash
-   cd NOME_DO_REPOSITORIO
+   cd miniprojeto
    ```
 3. **Certifique-se de que os arquivos de dados** (`olist_products_dataset.csv` e `olist_orders_dataset.csv`) estão localizados na mesma pasta do seu arquivo do notebook ou script Python.
 
